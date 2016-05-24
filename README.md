@@ -1,0 +1,1 @@
+一个自动解释thrift javascript依赖的工具,并且提供相应的请求api接口.
